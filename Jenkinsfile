@@ -8,7 +8,7 @@ pipeline {
 
             steps {
 
-                echo "Hello World! This is Jenkins Demo with Pipeline SCM"
+                echo "Hello World! This is Jenkins Demo with Pipeline SCM and PollSCM"
 
             }
 
